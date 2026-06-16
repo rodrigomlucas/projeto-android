@@ -194,8 +194,8 @@ aside {
 }
 
 aside > ul {
-    list-style-type: '\2714\00a0\00a0';    \* codepoint emoji checkmark 2714  obs: 00a0 é espaço */
-    list-style-position: inside;
+    list-style-type: '\2714\00a0\00a0';   \* codpoint emoji*/
+    list-style-position:inside;
     columns: 2;
 }
 
